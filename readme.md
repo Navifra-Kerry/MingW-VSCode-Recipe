@@ -1,4 +1,4 @@
-# MingW-64 Windows with VSCode Configurtaion Recipe
+# VSCode Configurtaion Recipe for MingW-64 Windows
 
 ## Download and Install
 
